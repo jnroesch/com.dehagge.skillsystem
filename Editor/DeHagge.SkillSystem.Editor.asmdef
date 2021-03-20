@@ -1,0 +1,21 @@
+{
+    "name": "DeHagge.SkillSystem.Editor",
+    "references": [
+        "GUID:1965757801d068a4fa39b829097168ac",
+        "GUID:6c9afa7556dbab542be392899ca4a6cf",
+        "GUID:b8e24fd1eb19b4226afebb2810e3c19b",
+        "GUID:002c1bbed08fa44d282ef34fd5edb138",
+        "GUID:9ea48e9d84c530b4f8bc1e57b36856e1"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

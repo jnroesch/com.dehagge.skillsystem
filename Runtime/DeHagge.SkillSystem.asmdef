@@ -1,0 +1,16 @@
+{
+    "name": "DeHagge.SkillSystem",
+    "references": [
+        "GUID:9ea48e9d84c530b4f8bc1e57b36856e1",
+        "GUID:b8e24fd1eb19b4226afebb2810e3c19b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
